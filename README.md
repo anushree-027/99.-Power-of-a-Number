@@ -1,1 +1,5 @@
 # 99.-Power-of-a-Number
+m = int(input('Enter First value: '))
+n = int(input('Enter Second value: '))
+p = m ** n
+print(f'{m} Raise to {n} = {p}')
